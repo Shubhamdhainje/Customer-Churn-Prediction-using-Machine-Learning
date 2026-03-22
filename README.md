@@ -26,23 +26,23 @@ ________________________________________________________________________________
 
 Raw Data 
 
-      ↓
+   ↓
    
 Data Cleaning & EDA (Part 1)
 
-      ↓
+   ↓
    
 Feature Engineering
 
-      ↓
+   ↓
    
 Cleaned_churn_Data.csv
 
-      ↓
+   ↓
    
 Machine Learning Modeling (Part 2)
 
-      ↓
+   ↓
    
 Churn Prediction
 ____________________________________________________________________________________
