@@ -26,23 +26,23 @@ ________________________________________________________________________________
 
 Raw Data 
 
-   ↓
+      ↓
    
 Data Cleaning & EDA (Part 1)
 
-   ↓
+      ↓
    
 Feature Engineering
 
-   ↓
+      ↓
    
 Cleaned_churn_Data.csv
 
-   ↓
+      ↓
    
 Machine Learning Modeling (Part 2)
 
-   ↓
+      ↓
    
 Churn Prediction
 ____________________________________________________________________________________
@@ -123,7 +123,7 @@ ________________________________________________________________________________
 
 •	Cross-validation indicates stable performance across multiple splits
 
-# Note: The model serves as a baseline, with scope for further improvement.
+Note: The model serves as a baseline, with scope for further improvement.
 ______________________________________________________________________________________
 ## Key Insights
 
