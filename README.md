@@ -11,6 +11,7 @@ ________________________________________________________________________________
 This project builds on:
 # Part 1: Customer Churn Analysis & Data Preparation
 In the previous project, I performed:
+
 •	Data Cleaning
 •	Exploratory Data Analysis (EDA)
 •	Feature Engineering
